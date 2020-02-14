@@ -12,4 +12,4 @@
 ## Support and contact details
 {jebetthuo@gmail.com and mr.s.n.mwaura@gmail.com.}
 ### License
-*{MIT} **{Lisa Thuo and Sam Mwaura}**
+*{MIT} **{Lisa Thuo and Sam Mwaura. }**
